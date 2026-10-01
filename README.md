@@ -45,7 +45,7 @@ Further this project was extended to support the analyses of CO2 emission for a 
    - Further optional Azure Blob storage upload workflow is provided.
 
 ### Architecture Flow Diagram
-<img width="1383" height="314" alt="power_analytics_pipeline" src="https://github.com/user-attachments/assets/5b33731c-5cc4-48c8-8125-ff31fc0aa33e" />
+<img width="1372" height="372" alt="power_analytics_pipeline" src="https://github.com/user-attachments/assets/5e63e65c-f6c1-43fe-81ac-236c49ac02cc" />
 
 
 ### Visualization
